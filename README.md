@@ -10,8 +10,8 @@ Check excel xlsx files and get IMEI numbers inside.
 
 -You can download the compiled program for Windows XP+.
 
-![menu gui sample](https://raw.githubusercontent.com/xoseng/imeicheck/master/samples/GUI.PNG)
-![excel sample 1](https://raw.githubusercontent.com/xoseng/imeicheck/master/samples/excel1.PNG)
-![excel sample 2](https://raw.githubusercontent.com/xoseng/imeicheck/master/samples/excel2.PNG)
+![menu gui sample](https://raw.githubusercontent.com/xoseng/imeicheck/main/samples/GUI.PNG)
+![excel sample 1](https://raw.githubusercontent.com/xoseng/imeicheck/main/samples/excel1.PNG)
+![excel sample 2](https://raw.githubusercontent.com/xoseng/imeicheck/main/samples/excel2.PNG)
 
 
